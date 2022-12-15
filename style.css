@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins';
+}
+body{
+    background-color: #2A0934;
+}
+
+.card{
+    height: 200px;
+    background-color: #F7F7D4;
+}
+
+.icon img{
+    height: 70px;
+}
+
+.top{
+    margin-top: 50px;
+    
+}
+
+.teks{
+    color: #FEFE33;
+}
